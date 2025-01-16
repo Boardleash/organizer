@@ -8,33 +8,49 @@ Bash script to organize a user's files in three of Linux's standard directories.
 ***organizer*** is an interactive bash script that will help to organize files in one of the following three directories (based on user choice):
 
 >	***- Desktop***
+
 >	***- Documents***
+ 
 >	***- Downloads***
 
 In all three of the above cases, the script assumes that the directories are in the user's home directory.  So, the full paths for the above directories that are organized with this script are:
 
 >	***/home/"$USER"/Desktop/***
+
 >	***/home/"$USER"/Documents/***
+
 >	***/home/"$USER"/Downloads/***
 
 The script is set up to search for the following file extensions in one of those three directories (based on user choice):
 
 >***- Text Files***
->	***- .txt***
->	***- .pdf***
->	***- .odt***
->	***- .ods***
->	***- .odp***
->
+
+>    ***- .txt***
+
+>    ***- .pdf***
+
+>    ***- .odt***
+
+>    ***- .ods***
+
+>    ***- .odp***
+
+
 >***- Images***
->	***- .jpg***
->	***- .png***
->
+
+>    ***- .jpg***
+
+>    ***- .png***
+
+
 >***- Music/Audio***
->	***- .mp3***
->
->***- Video***
->	***- .mp4***
+
+>    ***- .mp3***
+
+>    ***- Video***
+
+>    ***- .mp4***
+
 
 The above-mentioned file extensions are moved and organized as necessary out of the one of the three directories that the user chooses.  There is an assumption that a '*Documents*', '*Pictures*', '*Music*' and '*Videos*' exists.
 
