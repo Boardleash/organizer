@@ -25,31 +25,31 @@ The script is set up to search for the following file extensions in one of those
 
 >***- Text Files***
 
->     ***- .txt***
+ >   ***- .txt***
 
->     ***- .pdf***
+ >   ***- .pdf***
 
->     ***- .odt***
+ >   ***- .odt***
 
->     ***- .ods***
+ >   ***- .ods***
 
->     ***- .odp***
+ >   ***- .odp***
 
 
 >***- Images***
 
->     ***- .jpg***
+ >   ***- .jpg***
 
->     ***- .png***
+ >   ***- .png***
 
 
 >***- Music/Audio***
 
->     ***- .mp3***
+ >   ***- .mp3***
 
->     ***- Video***
+ >   ***- Video***
 
->     ***- .mp4***
+ >   ***- .mp4***
 
 
 The above-mentioned file extensions are moved and organized as necessary out of the one of the three directories that the user chooses.  There is an assumption that a '*Documents*', '*Pictures*', '*Music*' and '*Videos*' exists.
