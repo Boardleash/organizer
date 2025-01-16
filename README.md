@@ -23,7 +23,7 @@ In all three of the above cases, the script assumes that the directories are in 
 
 The script is set up to search for the following file extensions in one of those three directories (based on user choice):
 
->***- Text Files***
+***Text Files***
 
  >   ***- .txt***
 
@@ -36,14 +36,14 @@ The script is set up to search for the following file extensions in one of those
  >   ***- .odp***
 
 
->***- Images***
+***Images***
 
  >   ***- .jpg***
 
  >   ***- .png***
 
 
->***- Music/Audio***
+***Music/Audio***
 
  >   ***- .mp3***
 
